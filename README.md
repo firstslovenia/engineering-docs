@@ -8,6 +8,10 @@
 ## CENTERSTAGE
 ### [**22903 Engineering Portfolio**](22903-VegaMind/EP-22903-2023.pdf)
 
+## INTO THE DEEP
+### [**22903 Engineering Portfolio**](22903-VegaMind/EP-22903-2024.pdf)
+### [**28080 Engineering Portfolio**](28080-VegaTech/EP-28080-2024.pdf)
+
 ## Project Strand
 This is teams' 22903 VegaMind and 28080 VegaTech library of custom parts.
 
